@@ -1,1 +1,1 @@
-return "storm"
+return "tokyonight-storm"
